@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParksAPI", "ParksAPI\ParksA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adventures", "Adventures\Adventures.csproj", "{BA066AAD-03EE-4F1B-B8D8-2E26B6AFD565}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adventures.Data", "Adventures.Data\Adventures.Data.csproj", "{8376D3AC-2450-436A-8643-4BD5B78463E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BA066AAD-03EE-4F1B-B8D8-2E26B6AFD565}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA066AAD-03EE-4F1B-B8D8-2E26B6AFD565}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA066AAD-03EE-4F1B-B8D8-2E26B6AFD565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8376D3AC-2450-436A-8643-4BD5B78463E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8376D3AC-2450-436A-8643-4BD5B78463E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8376D3AC-2450-436A-8643-4BD5B78463E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8376D3AC-2450-436A-8643-4BD5B78463E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
