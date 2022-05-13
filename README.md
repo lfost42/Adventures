@@ -1,6 +1,6 @@
 # Adventures
 
-An app that allows authenticated users explore national parks and trails to explore in the United States. 
+An app that allows users to explore national parks and trails in the United States. 
 
 ![My App](./app.png)
 
