@@ -82,7 +82,7 @@ namespace Zedwork
         static void Main(string[] args)
         {
             var yes = new Counter("Yes", 4);
-            var no = new Counter("No", 4);
+            var no = new Counter("No", 3);
             var maybe = new Counter("Maybe", 3);
 
             var manager = new CounterManager(yes, no, maybe);
